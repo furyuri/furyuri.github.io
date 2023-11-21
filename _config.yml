@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Uri Frazier - Artist, Designer & Dev
+title: Uri Frazier - Artist, Papa Bear, Designer & Dev
 email: ubfrazier@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Say whaaaaat. It me. Uri. Embrace the phoenix, kiss the panther. Just a placeholder description. Wassssssup.
