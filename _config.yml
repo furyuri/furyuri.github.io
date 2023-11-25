@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Uri Frazier - Artist, Papa Bear, Designer & Dev
+title: Aquarium 8 - Art, Poetry, Stories & More
 email: ubfrazier@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Say whaaaaat. It me. Uri. Embrace the phoenix, kiss the panther. Just a placeholder description. Wassssssup.
+  A world of creativity, art, poetry and inspiration. Stay a while, explore. Experience the web as it was intended back in days of yore.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  furyuri
