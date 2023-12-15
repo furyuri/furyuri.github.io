@@ -1,21 +1,35 @@
 ---
 layout: page
-title: Who is Uri Frazier?
+title: Who in the world is Uri Frazier?
 menu_title: About
 permalink: /about/
 ---
 
-My name is Uri. This is my site. This is an **Octopus** that likes to draw. 🐙
+Hello, hello! My name is Uri. This is my site. This is an **Octopus** that likes to draw. 🐙
 
-I'm an artist and web designer / developer working in the lovely Portland, Oregon metro area. I enjoy comics, running, learning languages and also have a pretty good eye for design. Right now I'm focused on a new journey: diving deep into visual arts, storytelling and poetry.
+Okay, okay. Seriously though - I'm an artist and web designer / developer working in the lovely Portland, Oregon metro area. I enjoy ecstatic dance, anime, sci-fi, fantasy, manga, comics, running, learning languages, and playing with my kiddos. 
 
-A few years back I graduated from Portland Community College's Website Development and Design program, and absolutely loved it. If you're ever looking for a computer-related class there, I'd highly recommend instructor [Juan Maldonado](https://spot.pcc.edu/~jmaldona/), my favorite instructor by far.
+Right now I'm focused on a new journey: diving deep into visual arts, storytelling and poetry.
 
-A few links that will surely enhance your life. Say "yes" to joy and laughter. ^__^
+<aside markdown=1> **Side note**: A few years back (in 2020) I graduated from Portland Community College's Website Development and Design program, and absolutely loved it. If you're ever looking for a computer-related class there, I'd highly recommend instructor [Juan Maldonado](https://spot.pcc.edu/~jmaldona/), my favorite instructor by far.
+</aside>
+
+My goal for this website is multi-faceted and includes:
+- Bringing joy and entertainment through art, poetry, music and other creative endeavors.
+- Creating a delightful web experience.
+- Providing a way for people (like you, dear reader) to easily contact me, request my services, and buy cool, geeky products.
+
+At any rate, thanks for visiting and I hope you enjoy my site! Feel free to leave me feedback - good or bad. 🫣😁
+
+\- Uri
+
+<aside markdown=1>
+**Another aside:** A few links that will surely enhance your life. Say "yes" to joy and laughter. ^__^
 
 - [Mission to Zyxx](https://missiontozyxx.space)
     - The greatest sci-fi improv/comedy series ever. "Yass, Papa. Yasss."
 - [Wolf 359](https://wolf359.fm/)
     - Starts slow, but really ramps up after sesason 1.
+</aside>
 
-\- Uri
+<small>P.S. I love you! 💖</small>
