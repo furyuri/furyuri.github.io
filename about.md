@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Who is Uri Frazier?
 menu_title: About
 permalink: /about/
 ---
