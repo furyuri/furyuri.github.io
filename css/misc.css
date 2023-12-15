@@ -1,0 +1,25 @@
+.no-bottom-margin {
+    margin-bottom: 0;
+}
+.post-content h2 {
+    font-size: 1.75rem;
+    color: #333333;
+    line-height: 1.25;
+}
+.flex-container {
+    display: flex;
+    margin-bottom: 2rem;
+}
+.image-mobile-swap-order {
+    margin-left: 1rem;
+}
+@media only screen and (max-width: 600px) {
+    .flex-container  .image-mobile-swap-order {
+        order: -1;
+        margin-left: 0;
+        margin-bottom: 1rem;
+    }
+    .flex-container {
+        flex-wrap: wrap;
+    }
+}
