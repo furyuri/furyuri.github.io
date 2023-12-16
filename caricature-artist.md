@@ -18,12 +18,17 @@ permalink: /caricature-artist/
     </span>    
 </p>
 
-## Interested in having a caricature artist at your next event?
+<section id='caricature-artist-contact-cta' markdown=1>
+
+## Need a caricature artist for your next event?
+<small>I'd be happy to answer any questions you have. 😁</small><br><br>
 Send me a text or give me a call:<br>
 [503-686-3418](tel:+15036863418)
 
 If you'd prefer to email me, you can also reach me here:<br>
 [ubfrazier@icloud.com](mailto:ubfrazier@icloud.com)
+
+</section>
 
 ## I can travel for events too!
 <p class='flex-container'>
