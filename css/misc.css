@@ -13,6 +13,15 @@
 .image-mobile-swap-order {
     margin-left: 1rem;
 }
+.post-content aside {
+    background-color: #e3e3e3;
+    padding: 1rem;
+    font-size: .85em;
+    margin-bottom: 1rem;
+}
+.post-content aside > *:last-of-type {
+    margin-bottom: 0;
+}
 @media only screen and (max-width: 600px) {
     .flex-container  .image-mobile-swap-order {
         order: -1;
