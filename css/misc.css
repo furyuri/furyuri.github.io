@@ -22,6 +22,9 @@
 .post-content aside > *:last-of-type {
     margin-bottom: 0;
 }
+.img-thumb-med {
+    max-width: 300px
+}
 @media only screen and (max-width: 600px) {
     .flex-container  .image-mobile-swap-order {
         order: -1;
@@ -30,5 +33,8 @@
     }
     .flex-container {
         flex-wrap: wrap;
+    }
+    .img-thumb-med {
+        max-width: 100%;
     }
 }
