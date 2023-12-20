@@ -23,7 +23,7 @@ My goal for this website is multi-faceted and includes:
 - Creating a delightful web experience.
 - Providing a way for people (like you, dear reader) to easily contact me, request my services, and buy cool, geeky products.
 
-## At the end of da' day...
+## At the end o' the day...
 
 At any rate, thanks for visiting and I hope you enjoy my site! Feel free to leave me feedback - good or bad. 🫣😁
 
