@@ -14,14 +14,18 @@ Right now I'm focused on a new journey: diving deep into visual arts, storytelli
 <aside markdown=1> **Side note**: A few years back (in 2020) I graduated from Portland Community College's Website Development and Design program, and absolutely loved it. If you're ever looking for a computer-related class there, I'd highly recommend instructor [Juan Maldonado](https://spot.pcc.edu/~jmaldona/), my favorite instructor by far.
 </aside>
 
+![Deep ocean with sunlight filtering through from above.]({{site.url}}/{{site.images_path}}pexels-blaque-x-932638.jpg){: #about-ocean-separator-img}
+
+## Site Goals & Porpoise
+
 My goal for this website is multi-faceted and includes:
 - Bringing joy and entertainment through art, poetry, music and other creative endeavors.
 - Creating a delightful web experience.
 - Providing a way for people (like you, dear reader) to easily contact me, request my services, and buy cool, geeky products.
 
-At any rate, thanks for visiting and I hope you enjoy my site! Feel free to leave me feedback - good or bad. 🫣😁
+## At the end of da' day...
 
-\- Uri
+At any rate, thanks for visiting and I hope you enjoy my site! Feel free to leave me feedback - good or bad. 🫣😁
 
 <aside markdown=1>
 **Another aside:** A few links that will surely enhance your life. Say "yes" to joy and laughter. ^__^
@@ -32,4 +36,6 @@ At any rate, thanks for visiting and I hope you enjoy my site! Feel free to leav
     - Starts slow, but really ramps up after sesason 1.
 </aside>
 
-<small>P.S. I love you! 💖</small>
+\- Uri
+
+<small class="x-center-text">P.S. I love you! 💖</small>
