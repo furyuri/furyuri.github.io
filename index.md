@@ -8,6 +8,6 @@ layout: home
 
 ![Boy looking at fish in an aquarium.]({{site.url}}/{{site.images_path}}pexels-rachel-claire-5531413-cropped.png){: #under-construction-pic}
 
-Under Construction - so there's not too much to see. <br><small>Please come back soon! ^__^</small>
+Still under the early stages of development, but there's stuff to see now! Check out the [blog](\blog). I think there's at least one post there...
 
-\- "Fury" Uri
+\- Uri
