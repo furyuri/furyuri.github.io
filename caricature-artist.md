@@ -3,6 +3,8 @@ layout: page
 title: Caricature Artist in Portland, Oregon
 menu_title: Caricature Artist
 permalink: /caricature-artist/
+redirect_from:
+  - /caricature-artist.html
 ---
 
 <h2 class='no-bottom-margin'>Howdy, stranger!</h2><small>(Because either way, you're "strange" - just like me 😉)</small>

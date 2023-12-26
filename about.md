@@ -3,6 +3,8 @@ layout: page
 title: Who in the world is Uri Frazier?
 menu_title: About
 permalink: /about/
+redirect_from:
+  - /about.html
 ---
 
 Hello, hello! My name is Uri. This is my site. This is an **Octopus** that likes to draw. 🐙
