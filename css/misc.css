@@ -31,6 +31,13 @@
     width: 100%;
     text-align: center;
 }
+/* --- Poems --- */
+.poem-intro-img {
+    max-width: 550px;
+    margin-bottom: 1.5rem;
+    border-radius: 5px;
+}
+
 /* --- About Page */
 #caricature-artist-contact-cta {
     padding: 2rem;
@@ -48,6 +55,7 @@
     object-fit: cover;
     object-position: left 43%;
 }
+
 /* --- Media Queries --- */
 @media only screen and (max-width: 600px) {
     .flex-container  .image-mobile-swap-order {
