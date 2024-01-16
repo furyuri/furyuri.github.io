@@ -38,7 +38,7 @@ If you'd prefer to email me, you can also reach me here:<br>
         Even if your event isn't in Portland, I have car and will travel. So whether you live in Beaverton, Salem or Vancouver WA, I've got you covered. I can also drive out to Tigard, Hillsboro, Gresham, Aloha, and Lake Oswego. <br><br>So, to put it simply, if you're an hour or less from Portland, I can help you out. If it's more than an hour then just ask me (see the contact info above) and I'll see what I can do.
     </span>
     <span markdown=1 class='image-mobile-swap-order'>
-        ![Caricature artist, Uri Frazier at a drawing a couple at a corporate event.]({{site.url}}/{{site.images_path}}caricature-art-corporate-event.jpg){: .img-float-right, .img-thumb-med}
+        ![Caricature artist, Uri Frazier at a drawing a couple at a corporate event.]({{site.url}}/{{site.images_path}}caricature-art-corporate-event-small.jpg){: .img-float-right, .img-thumb-med}
     </span>    
 </p>
 
