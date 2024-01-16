@@ -109,7 +109,7 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  padding: 3.5rem 0 2rem;
   background-color: #092a34;
   background-image: linear-gradient(to right, #041c40, #092a34);
   color: white;  
@@ -122,7 +122,7 @@
 }
 
 .footer-heading {
-  @include relative-font-size(1.5);
+  @include relative-font-size(2);
   margin-bottom: $spacing-unit / 2;
 }
 
