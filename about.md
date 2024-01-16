@@ -16,7 +16,7 @@ Right now I'm focused on a new journey: diving deep into visual arts, storytelli
 <aside markdown=1> **Side note**: A few years back (in 2020) I graduated from Portland Community College's Website Development and Design program, and absolutely loved it. If you're ever looking for a computer-related class there, I'd highly recommend instructor [Juan Maldonado](https://spot.pcc.edu/~jmaldona/), my favorite instructor by far.
 </aside>
 
-![Deep ocean with sunlight filtering through from above.]({{site.url}}/{{site.images_path}}pexels-blaque-x-932638.jpg){: #about-ocean-separator-img}
+![Deep ocean with sunlight filtering through from above.]({{site.url}}/{{site.images_path}}pexels-blaque-x-932638-small.jpg){: #about-ocean-separator-img}
 
 ## Site Goals & Porpoise
 
