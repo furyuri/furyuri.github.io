@@ -17,10 +17,12 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: #19708b;
+  font-weight: 400;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: #19708b;
   }
 }
 
@@ -108,10 +110,19 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: #092a34;
+  background-image: linear-gradient(to right, #041c40, #092a34);
+  color: white;  
+  li, p {
+    color: #dadada;
+  }
+  a {
+    color: #2c88ff;
+  }
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  @include relative-font-size(1.5);
   margin-bottom: $spacing-unit / 2;
 }
 
