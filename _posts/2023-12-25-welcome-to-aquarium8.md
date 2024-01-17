@@ -2,9 +2,11 @@
 layout: post
 title:  "Welcome to Aquarium8"
 date:   2023-12-25 19:35:24 -0800
-categories: update
+categories: blog
+thumbnail: 'pexels-aaron-ulsh-2860705-thumbnail.jpg'
+thumbnail_alt: 'Clear blue agitated ocean water.'
 ---
-
+![Clear blue agitated ocean water.]({{site.url}}/{{site.images_path}}pexels-aaron-ulsh-2860705-small.jpg){: .poem-intro-img}
 ## New Journey, New Website
 My old website (urifrazier.com) has officially been retired. After around 7 years of loyal service, it was time for a new hosting option, new technology and of course, a new design. My previous site was mostly a portfolio site that was initially just something I could show potential employers as I sought to break into the web development industry.
 

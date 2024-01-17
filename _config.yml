@@ -29,9 +29,10 @@ github_username:  furyuri
 header_pages:
   - caricature-artist.md
   - blog.md
+  - poetry.md
   - about.md
 images_path: images/
-
+show_excerpts: true
 # Build settings
 theme: minima
 plugins:

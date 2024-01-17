@@ -1,14 +1,14 @@
 ---
 layout: page
-title: The Personal Blog of Uri Frazier
-menu_title: Blog
-permalink: /blog/
+title: Poems, Creative Writing and Such.
+menu_title: Poetry
+permalink: /poetry/
 ---
 
 {%- if site.posts.size > 0 -%}
 
 <ul class="post-list"  markdown=1>
-    {%- for post in site.categories.blog -%}
+    {%- for post in site.categories.poem -%}
     <li class="post-preview">
     {%- if post.thumbnail -%}
         <span class="thumbnail_url hidden">{{site.url}}/{{site.images_path}}{{post.thumbnail}}</span>
