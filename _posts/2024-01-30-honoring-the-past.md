@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Recognizing and Honoring the Past"
-date:   2024-01-30 19:35:24 -0800
 categories: blog
 thumbnail: 'frazier_family_90s-thumbnail.jpg'
 thumbnail_alt: 'The Frazier family: Thomas, Shelia, Tomisha, Uriel & Kourtney.'
