@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Aquarium8"
-date:   2023-12-25 19:35:24 -0800
 categories: blog
 thumbnail: 'pexels-aaron-ulsh-2860705-thumbnail.jpg'
 thumbnail_alt: 'Clear blue agitated ocean water.'

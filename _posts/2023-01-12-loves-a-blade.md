@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Love's a Blade"
-date:   2023-01-12 06:29:24 -0800
 categories: poem
 thumbnail: 'pexels-nadin-sh-8694613-thumbnail.jpg'
 thumbnail_alt: 'A woman in a kimono holding a sword across her back, partially enshrouded in pink smoke.'
