@@ -6,7 +6,7 @@ thumbnail: 'frazier_family_90s-thumbnail.jpg'
 thumbnail_alt: 'The Frazier family: Thomas, Shelia, Tomisha, Uriel & Kourtney.'
 ---
 ![The Frazier family: Thomas, Shelia, Tomisha, Uriel & Kourtney.]({{site.url}}/{{site.images_path}}frazier_family_90s-small.jpg){: .poem-intro-img}
-## I am black.
+## I am Black.
 A major part of who I am...is a ***black***, *African-American* man. My ancestors include those who were beaten down, hated, betrayed and oppressed for some 200 years. My ancestry also includes the strength, constitution, vitality and ***love*** of those who survived against all odds.
 
 My former religion, and my upbringing (wittingly or unwittingly) minimized, neglected, ignored and effectively dishonored that history. I confess, with sadness and regret, that I have never appreciated *fully* that aspect of my background. 
