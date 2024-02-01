@@ -35,6 +35,10 @@
     display:none;
 }
 /* --- Posts --- */
+.post h1 {
+    margin-bottom: 0;
+}
+
 .post-link::after {
     content: '';
     display: block;
@@ -59,6 +63,10 @@
     flex: 1;
 }
 /* --- Poems --- */
+.poem h1 {
+    margin-bottom: 0;
+}
+
 .poem-intro-img {
     max-width: 550px;
     max-width: 100%;

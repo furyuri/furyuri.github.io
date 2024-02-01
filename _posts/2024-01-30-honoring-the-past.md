@@ -4,6 +4,7 @@ title:  "Recognizing and Honoring the Past"
 categories: blog
 thumbnail: 'frazier_family_90s-thumbnail.jpg'
 thumbnail_alt: 'The Frazier family: Thomas, Shelia, Tomisha, Uriel & Kourtney.'
+author: 'Uriel Frazier'
 ---
 ![The Frazier family: Thomas, Shelia, Tomisha, Uriel & Kourtney.]({{site.url}}/{{site.images_path}}frazier_family_90s-small.jpg){: .poem-intro-img}
 ## I am Black.

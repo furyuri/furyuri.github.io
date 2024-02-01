@@ -4,6 +4,7 @@ title:  "Welcome to Aquarium8"
 categories: blog
 thumbnail: 'pexels-aaron-ulsh-2860705-thumbnail.jpg'
 thumbnail_alt: 'Clear blue agitated ocean water.'
+author: 'Uriel Frazier'
 ---
 ![Clear blue agitated ocean water.]({{site.url}}/{{site.images_path}}pexels-aaron-ulsh-2860705-small.jpg){: .poem-intro-img}
 ## New Journey, New Website
