@@ -5,6 +5,9 @@ categories: poem
 thumbnail: 'pexels-nadin-sh-8694613-thumbnail.jpg'
 thumbnail_alt: 'A woman in a kimono holding a sword across her back, partially enshrouded in pink smoke.'
 author: 'Uriel Frazier'
+permalink: /poetry/loves-a-blade
+redirect_from:
+  - /poem/2023/01/12/loves-a-blade.html
 ---
 ![A pinkish purplish starry nebula.]({{site.url}}/{{site.images_path}}pexels-nadin-sh-8694613-small.jpg){: .poem-intro-img}
 My spirit yearns...my heart quakes.  
