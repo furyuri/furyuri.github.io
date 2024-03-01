@@ -24,7 +24,7 @@ email: ubfrazier@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   A world of creativity, art, poetry and inspiration. Stay a while, explore. Experience the web as it was intended back in days of yore.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aquarium8.art" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  furyuri
 header_pages:
   - caricature-artist.md
