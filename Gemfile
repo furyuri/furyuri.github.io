@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Redirects -- https://github.com/jekyll/jekyll-redirect-from
 gem 'jekyll-redirect-from'
+gem 'jekyll-sitemap'
