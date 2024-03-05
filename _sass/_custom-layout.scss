@@ -129,3 +129,20 @@
         max-width: 100%;
     }
 }
+
+
+.post-preview {
+    > img {
+        flex: 1;
+    }
+    h3 {
+        line-height: 1.2em;
+    }
+
+    @media only screen and (max-width: 600px) {
+        background-color: #eaeaea;
+        border-radius: 5px;
+    }
+}
+
+
