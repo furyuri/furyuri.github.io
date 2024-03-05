@@ -17,6 +17,10 @@ author: 'Uriel Frazier'
 
 4. ***You can't keep your eyes and hands off of each other!*** 😆 Neither time nor familiarity dampens this gravity or warmth. Like celestial bodies, you are moved and held close by unseen forces...powerful, seemingly irresistible...creating magical patterns and harmonies witnessed by anyone who cares to pause and observe.
 
+<aside markdown=1>
 Stay tuned for more signs that you may have found a soulmate. In the meantime, feel free to [read a sweet poem](/poetry/soulmate) I wrote called SoulMate. It features artwork by the amazing [Mirko Rossi](https://lenevralgiecostanti.weebly.com/)
+</aside>
 
-\- Uriel
+<div markdown=1 id='signature-box'>
+With love, <span id='signature'>Uriel</span>
+</div>

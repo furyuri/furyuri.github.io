@@ -33,6 +33,7 @@ header_pages:
   - about.md
 images_path: images/
 show_excerpts: true
+instagram_username: fury.uri
 # Build settings
 theme: minima
 plugins:
