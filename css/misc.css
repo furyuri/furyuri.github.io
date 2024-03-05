@@ -62,6 +62,15 @@
     margin: 1rem;
     flex: 1;
 }
+.post .artist-credit {
+    margin-top: 2rem;
+    border-radius: 5px;
+}
+.post .artist-credit h2 {
+    margin-top: 0;
+    font-size: 1.2rem;
+    margin-bottom: .5rem;
+}
 /* --- Poems --- */
 .poem h1 {
     margin-bottom: 0;
@@ -90,6 +99,14 @@
     opacity: .9;
     object-fit: cover;
     object-position: left 43%;
+}
+
+/* --- Global / Misc --- */
+
+.small-heading-subtext {
+    display: block;
+    font-size: 0.6em;
+    font-style: italic;
 }
 
 /* --- Media Queries --- */
