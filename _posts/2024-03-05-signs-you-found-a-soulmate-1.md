@@ -9,7 +9,7 @@ author: 'Uriel Frazier'
 ![The silhouette of two kids running in opposite directions across a rocky terrain.]({{site.url}}/{{site.images_path}}pexels-margaret-weir-620530-small.jpg){: .poem-intro-img}
 <h2>Four signs you may have found a soulmate <span class="small-heading-subtext">(according to me)</span></h2>
 
-1. Before falling asleep in bed, you sometimes find yourselves under thick, warm blankets lights off, ***chatting and giggling, reveling in the rich darkness, late into the night.*** In those moments you are transported back to your early teen years, kept awake not by caffeinated food or drink, but simply by the youthful energy of a sweet slumber party or an intimate sleepover with one of your besties.
+1. Before falling asleep in bed, you sometimes find yourselves under thick, warm blankets––lights off, ***chatting and giggling, reveling in the rich darkness, late into the night.*** In those moments you are transported back to your early teen years, kept awake not by caffeinated food or drink, but simply by the youthful energy of a sweet slumber party or an intimate sleepover with one of your besties.
 
 2. ***You feel completely at ease with this lovely person***, practically all of the time. You feel the fresh breath of freedom *to finally be yourself* - encouraged naturally to discover and share parts of yourself that you didn't know existed. Even when discomfort arises due to conflict or disagreements, you find it so effortless and easy to return to each other. The love you share has a strong and unbreakable foundation, the essence of which seemingly goes back many lifetimes.
 
