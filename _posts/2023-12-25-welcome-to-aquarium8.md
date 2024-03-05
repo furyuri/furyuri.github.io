@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Aquarium8"
+title:  "Welcome to Aquarium 8"
 categories: blog
 thumbnail: 'pexels-aaron-ulsh-2860705-thumbnail.jpg'
 thumbnail_alt: 'Clear blue agitated ocean water.'
