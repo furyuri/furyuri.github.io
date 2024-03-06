@@ -27,4 +27,6 @@ And yet, I have never pursued art vigorously. Even in my youth when I was most a
 
 To be continued...
 
-\- Uri
+<div markdown=1 id='signature-box'>
+With love, <span id='signature'>Uriel</span>
+</div>

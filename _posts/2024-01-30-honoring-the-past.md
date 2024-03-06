@@ -23,4 +23,6 @@ Another part of me...is my Japanese heritage. My grandmother (I recently learned
 
 That is a separate journey, a path that I must also discover and travel down.
 
-\- Uriel
+<div markdown=1 id='signature-box'>
+With love, <span id='signature'>Uriel</span>
+</div>
