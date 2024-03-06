@@ -10,7 +10,7 @@ author: 'Uriel Frazier'
 ## New Journey, New Website
 My old website (urifrazier.com) has officially been retired. After around 7 years of loyal service, it was time for a new hosting option, new technology and of course, a new design. My previous site was mostly a portfolio site that was initially just something I could show potential employers as I sought to break into the web development industry.
 
-But now I have worked in the field full-time since 2018, and its original purpose has been fully satisfied. As I embark on expressing *my* new external purpose via art, poetry, and storytelling...as I seek to exercise and develop my creative muscle fibers, this site will also experience rebirth and serve as a vehicle for communication, record-keeping, connection and discovery. My new website name is...***Aquarium8***.
+But now I have worked in the field full-time since 2018, and its original purpose has been fully satisfied. As I embark on expressing *my* new external purpose via art, poetry, and storytelling...as I seek to exercise and develop my creative muscle fibers, this site will also experience rebirth and serve as a vehicle for communication, record-keeping, connection and discovery. My new website name is...***Aquarium 8***.
 
 See my [About](/about) page for more information, and stay tuned for future posts that explain more about my vision and what plans and goals I have for myself and this site.
 
