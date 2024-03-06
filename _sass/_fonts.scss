@@ -20,12 +20,12 @@
     font-family: "DM Mono", monospace;
 }
 
-.site-title, .footer-heading {
+.site-title, .footer-heading, h1, h2, h3 {
     @include dm-mono;
 }
 
-.site-title, .footer-heading {
-    letter-spacing: -2px;
+.site-title, .footer-heading, h1, h2, h3 {
+    letter-spacing: -2px !important;
     word-spacing: -.25em;
     @include relative-font-size(1.625);
 }

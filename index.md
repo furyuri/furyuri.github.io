@@ -10,4 +10,6 @@ layout: home
 
 Still under the early stages of development, but there's stuff to see now! Check out the [blog](\blog). I think there's at least one post there...
 
-\- Uri
+<div markdown=1 id='signature-box'>
+With love, <span id='signature'>Uriel</span>
+</div>
