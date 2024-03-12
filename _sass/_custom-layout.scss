@@ -137,6 +137,10 @@
         text-decoration: none;
     }
 }
+
+.img-thumb-med {
+    border-radius: 5px;
+}
 /* --- Media Queries --- */
 @media only screen and (max-width: 600px) {
     .flex-container  .image-mobile-swap-order {
