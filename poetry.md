@@ -3,6 +3,7 @@ layout: page
 title: Poems, Creative Writing and Such.
 menu_title: Poetry
 permalink: /poetry/
+description: 'Poems inspired and born from the heart, spirit and soul of Portland artist, Uri Frazier.'
 ---
 
 {%- if site.posts.size > 0 -%}

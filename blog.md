@@ -3,6 +3,7 @@ layout: page
 title: The Personal Blog of Uri Frazier
 menu_title: Blog
 permalink: /blog/
+description: 'Enter the wonderful world of Uri Frazier as he writes about life, love, and musings of all sorts.'
 ---
 
 {%- if site.posts.size > 0 -%}

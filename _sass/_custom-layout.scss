@@ -84,8 +84,7 @@
     border-radius: 5px;
     display: block;
 }
-
-/* --- About Page */
+/* --- Caricature Artist Page ---*/
 #caricature-artist-contact-cta {
     padding: 2rem;
     background-color: #e3e3e3;
@@ -94,6 +93,11 @@
 #caricature-artist-contact-cta h2 {
     margin-bottom: 0;
 }
+#caricature-samples-btn {
+    margin-top: 1rem;
+}
+
+/* --- About Page */
 #about-ocean-separator-img {
     max-height: 130px;
     width: 100%;
@@ -104,7 +108,6 @@
 }
 
 /* --- Global / Misc --- */
-
 .small-heading-subtext {
     display: block;
     font-size: 0.6em;
@@ -116,6 +119,24 @@
     font-weight: bold;
 }
 
+.btn {
+    border-radius: 5px;
+    border: 1px solid #cccccc;    
+    display: inline-block;
+    padding: .5rem 1rem;
+}
+
+.btn-dark, .btn:visited {
+    border: 0;
+    background-color: lighten($dark-blue, 10%);
+    color: lighten($brand-color, 40%);
+    transition: all .25s ease-in;
+    &:hover {
+        background-color: lighten($dark-blue, 30%);
+        color: white;        
+        text-decoration: none;
+    }
+}
 /* --- Media Queries --- */
 @media only screen and (max-width: 600px) {
     .flex-container  .image-mobile-swap-order {
