@@ -15,7 +15,7 @@ description: 'Enter the wonderful world of Uri Frazier as he writes about life, 
         <span class="thumbnail_url hidden">{{site.url}}/{{site.images_path}}{{post.thumbnail}}</span>
         <span class="thumbnail_alt hidden">{{post.thumbnail_alt}}</span>
     {%- endif -%}     
-        <div class="post-preview-text">
+        <div class="post-preview-text" id="{{post.post-id}}">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>

@@ -5,6 +5,7 @@ categories: blog
 thumbnail: 'pexels-margaret-weir-620530-thumbnail.jpg'
 thumbnail_alt: 'The silhouette of two kids running in opposite directions across a rocky terrain.'
 author: 'Uriel Frazier'
+post-id: 'signs-you-found-a-soulmate'
 ---
 ![The silhouette of two kids running in opposite directions across a rocky terrain.]({{site.url}}/{{site.images_path}}pexels-margaret-weir-620530-small.jpg){: .poem-intro-img}
 <h2>Four signs you may have found a soulmate <span class="small-heading-subtext">(according to me)</span></h2>
