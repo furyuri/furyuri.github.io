@@ -18,8 +18,11 @@ layout: default
     </p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content" itemprop="articleBody" markdown="1">
     {{ content }}
+    <br>
+    <br>
+    <a class="btn btn-dark" href="/poetry#{{page.poem-id}}"><< Back to Poetry</a>
   </div>
 
   {%- if site.disqus.shortname -%}
