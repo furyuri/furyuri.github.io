@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Caricature Artist in Portland, Oregon
+title: Uri Frazier - Caricature Artist in Portland, Oregon
 menu_title: Caricature Artist
 permalink: /caricature-artist/
 redirect_from:
   - /caricature-artist.html
-description: 'Engaging caricatures are sure to enhance your party, celebration, or corporate event.'
+description: 'Traveling artist serving Portland, OR and beyond. Engaging "live" caricatures are sure to enhance your special occasion.'
 ---
 
 <h2 class='no-bottom-margin'>Howdy, stranger!</h2><small>(Because either way, you're "strange" - just like me 😉)</small>
