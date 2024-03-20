@@ -34,6 +34,7 @@ header_pages:
 images_path: images/
 show_excerpts: true
 instagram_username: fury.uri
+linkedin_username: urifrazier
 # Build settings
 theme: minima
 plugins:
