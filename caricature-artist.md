@@ -5,7 +5,7 @@ menu_title: Caricature Artist
 permalink: /caricature-artist/
 redirect_from:
   - /caricature-artist.html
-description: 'Traveling artist serving Portland, OR and beyond. Engaging "live" caricatures are sure to enhance your special occasion.'
+description: 'Serving Portland, OR and beyond. Enhance your special occasion with the laughter and joy of live caricature.'
 ---
 
 <h2 class='no-bottom-margin'>Howdy, stranger!</h2><small>(Because either way, you're "strange" - just like me 😉)</small>
