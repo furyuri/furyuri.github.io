@@ -8,7 +8,7 @@ description: 'Samples of my caricature art, including art drawn during live even
 (Coming Soon) 😁
 
 For now, check out my art on Instagram. And give a guy a follow why dontcha? 🙏🏽
-[https://instagram.com/fury.uri](https://instagram.com/fury.uri)
+[https://instagram.com/fury.uri](https://instagram.com/fury.uri){:target="_blank"}{:rel="noopener noreferrer"}
 <br>
 <br>
 [<< Hire Me to Draw at Your Event](/caricature-artist/){: .btn .btn-dark}
