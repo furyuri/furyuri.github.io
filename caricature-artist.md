@@ -12,9 +12,11 @@ description: 'Traveling artist serving Portland, OR and beyond. Engaging "live" 
 
 <p class='flex-container'>
     <span markdown=1>
-    My name is Uri Frazier and I am a freelance caricature artist living the Pacific Northwest (PNW).
-    I offer caricatures for your parties of all types. <br><br> **Birthday Party** or **Wedding Reception**? Yes!
-    Got a **Graduation Party**, **Halloween Party**, **Christmas or Winter Holiday Event**? You betcha! I'll even do corporate events and parties.  
+    My name is Uri Frazier and I am a freelance caricature artist living the Pacific Northwest (PNW) - *I mostly work with clients in Portland, Oregon and Vancouver, Washington*.  
+    <br>
+    I offer caricatures for your parties of all types.  
+    **Birthday Party** or **Wedding Reception**? Yes!
+    Got a **Graduation Party**, **Halloween Party**, **Christmas or Winter Holiday Event**? You betcha! I also do corporate events and parties.  
 
     [Samples of My Caricature  Work >>](/caricature-artist/samples){: .btn .btn-dark #caricature-samples-btn}
 
@@ -46,5 +48,7 @@ If you'd prefer to email me, you can also reach me here:<br>
     </span>    
 </p>
 
+## Digital Caricatures
+I also accept commissions from time-to-time. So if you would like me to draw a caricature based off of a photo, then feel free to reach out to me and let's talk.
 
 
