@@ -3,7 +3,7 @@ layout: page
 title: Who in the world is Uri Frazier?
 menu_title: About
 permalink: /about/
-description: 'Learn a little about me, Uriel (Uri) Frazier. Artist, Dev, Dad, Octopus...?'
+description: 'Learn a little about me, Uriel (Uri) Frazier. Artist, Dancer, Dev, Dad, Octopus lover...'
 redirect_from:
   - /about.html
 ---
