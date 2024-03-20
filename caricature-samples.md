@@ -11,4 +11,4 @@ For now, check out my art on Instagram. And give a guy a follow why dontcha? ðŸ™
 [https://instagram.com/fury.uri](https://instagram.com/fury.uri){:target="_blank"}{:rel="noopener noreferrer"}
 <br>
 <br>
-[<< Hire Me to Draw at Your Event](/caricature-artist#need-a-caricature-artist-for-your-next-event){: .btn .btn-dark}
+[<< Hire Me to Draw at Your Event](/caricature-artist/#need-a-caricature-artist-for-your-next-event){: .btn .btn-dark}
