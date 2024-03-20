@@ -109,6 +109,9 @@
 }
 
 /* --- Global / Misc --- */
+html {
+    scroll-behavior: smooth;
+}
 .small-heading-subtext {
     display: block;
     font-size: 0.6em;
