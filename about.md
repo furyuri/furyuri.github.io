@@ -7,12 +7,19 @@ description: 'Learn a little about me, Uriel (Uri) Frazier. Artist, Dev, Dad, Oc
 redirect_from:
   - /about.html
 ---
+<p class='flex-container'>
+    <span markdown=1>
+        ![Uriel aka Uri Frazier, looking downwards, wearing shades in Portland, OR. He's wearing a My Hero Academia t-shirt.]({{site.url}}/{{site.images_path}}uri_bio_pic.jpg 'Uriel Frazier - Dad, Artist, Dancer, Dev.'){: .img-thumb-med}
+    </span>    
+    <span markdown=1>
+    Hello, hello! My name is Uri. This is my site. This is an **Octopus** that likes to draw. 🐙  
+  
+    Okay, okay. Seriously though - I'm an artist and web designer / developer working in the lovely Portland, Oregon metro area. I enjoy ecstatic dance, anime, sci-fi, fantasy, manga, comics, running, learning languages, and playing with my kiddos.  
+  
+    Right now I'm focused on a new journey: diving deep into visual arts, storytelling and poetry.
 
-Hello, hello! My name is Uri. This is my site. This is an **Octopus** that likes to draw. 🐙
-
-Okay, okay. Seriously though - I'm an artist and web designer / developer working in the lovely Portland, Oregon metro area. I enjoy ecstatic dance, anime, sci-fi, fantasy, manga, comics, running, learning languages, and playing with my kiddos. 
-
-Right now I'm focused on a new journey: diving deep into visual arts, storytelling and poetry.
+    </span>
+</p>
 
 <aside markdown=1> **Side note**: A few years back (in 2020) I graduated from Portland Community College's Website Development and Design program, and absolutely loved it. If you're ever looking for a computer-related class there, I'd highly recommend instructor [Juan Maldonado](https://spot.pcc.edu/~jmaldona/), my favorite instructor by far.
 </aside>
@@ -39,6 +46,6 @@ At any rate, thanks for visiting and I hope you enjoy my site! Feel free to leav
     - Starts slow, but really ramps up after sesason 1.
 </aside>
 
-\- Uri
-
-<small class="x-center-text">P.S. I love you! 💖</small>
+<div markdown=1 id='signature-box'>
+With love, <span id='signature'>Uriel</span>
+</div>

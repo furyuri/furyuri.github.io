@@ -14,12 +14,12 @@ description: 'Engaging caricatures are sure to enhance your party, celebration, 
     <span markdown=1>
     My name is Uri Frazier and I am a freelance caricature artist living the Pacific Northwest (PNW).
     I offer caricatures for your parties of all types. <br><br> **Birthday Party** or **Wedding Reception**? Yes!
-    Got a **Graduation Party**, **Halloween Party**, **Christmas or Winter Holiday Event**? You betcha! I'll even do corporate events and parties.
+    Got a **Graduation Party**, **Halloween Party**, **Christmas or Winter Holiday Event**? You betcha! I'll even do corporate events and parties.  
 
     [Samples of My Caricature  Work >>](/caricature-artist/samples){: .btn .btn-dark #caricature-samples-btn}
 
     </span>
-    <span markdown=1 class='image-mobile-swap-order'>
+    <span markdown=1 class='image-left-mobile-swap-order'>
         ![Uri Frazier, drawing caricatures at an outdoor event for Work For Art in Portland, OR.]({{site.url}}/{{site.images_path}}caricature-art-outside-event.jpg){: .img-float-left .img-thumb-med}
     </span>    
 </p>
@@ -41,7 +41,7 @@ If you'd prefer to email me, you can also reach me here:<br>
     <span markdown=1>
         Even if your event isn't in Portland, I have car and will travel. So whether you live in Beaverton, Salem or Vancouver WA, I've got you covered. I can also drive out to Tigard, Hillsboro, Gresham, Aloha, and Lake Oswego. <br><br>So, to put it simply, if you're an hour or less from Portland, I can help you out. If it's more than an hour then just ask me (see the contact info above) and I'll see what I can do.
     </span>
-    <span markdown=1 class='image-mobile-swap-order'>
+    <span markdown=1 class='image-left-mobile-swap-order'>
         ![Caricature artist, Uri Frazier at a drawing a couple at a corporate event.]({{site.url}}/{{site.images_path}}caricature-art-corporate-event-small.jpg){: .img-float-right .img-thumb-med}
     </span>    
 </p>
