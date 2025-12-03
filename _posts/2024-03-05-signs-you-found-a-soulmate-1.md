@@ -12,9 +12,11 @@ post-id: 'signs-you-found-a-soulmate'
 
 1. Before falling asleep in bed, you sometimes find yourselves under thick, warm blankets––lights off, ***chatting and giggling, reveling in the rich darkness, late into the night.*** In those moments you are transported back to your early teen years, kept awake not by caffeinated food or drink, but simply by the youthful energy of a sweet slumber party or an intimate sleepover with one of your besties.
 
-2. ***You feel completely at ease with this lovely person***, practically all of the time. You feel the fresh breath of freedom *to finally be yourself* - encouraged naturally to discover and share parts of yourself that you could never have even imagined. Even when discomfort arises due to conflict or disagreements, you find it so effortless and easy to return to each other. The love you share has a strong and unbreakable foundation, the essence of which seemingly goes back many lifetimes.
+2. ***You feel completely at ease with this lovely person***, practically all of the time. You feel the fresh breath of freedom *to finally be yourself* - encouraged naturally to discover and share parts of yourself that you could never have even imagined. Even when discomfort arises due to conflict or disagreements, you find it so effortless and easy to return to each other. The love you share has a strong and unbreakable foundation, the essence of which seemingly goes back many lifetimes. 
 
-Update (12-03-2025): Feeling safe, physically and emotionally safe is essential...fundamental. It needs to be present at all times (or close to it), and not just at the beginning. Safe to be yourself - loved for who you are. Safe to open your heart completely and be heard and understood. This is mutual - a vulnerability where you both see each other completely. 
+<aside markdown=1>
+**Update 12-03-2025:** Feeling safe, physically and emotionally safe is essential...fundamental. It needs to be present at all times (or close to it), and not just at the beginning. Safe to be yourself - loved for who you are. Safe to open your heart completely and be heard and understood. This is mutual - a vulnerability where you both see each other completely.
+</aside>
 
 3. The connection between you elicits a ***profound gratitude and awe that moves you*** to thank your partner, the universe, fate, god, the Earth, or whatever beings, spirits, or ancestral powers you have come to believe in. If you don't believe in any of those things, that's fine too. You still believe in your partner...and perhaps with time, the experience of profound connection and love will move you in an unexpected way...changing your thoughts and beliefs.
 
