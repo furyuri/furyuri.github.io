@@ -17,5 +17,4 @@ With love, <span id='signature'>Uriel</span>
 
 <br><br><br>
 ## Some Friends Worth Checking Out
-- [Esme Midnight Tarot & Astrology](https://esmemidnight.com)
 - [Secret Key PDX](https://secretkeypdx.com/)
