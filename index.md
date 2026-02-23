@@ -11,7 +11,7 @@ description: 'A world of imagination, art and storytelling by yours eternally, U
 <div id="hero-text">
 <h2>As wild, ever-changing <br>& flexible as the <br>Octopus.</h2>
 </div>
-<div id="hero-credit"><a href="https://unsplash.com/photos/brown-octopus-on-black-surface-i54owgDjXeY" target="_blank">Image by Isabel Galvez</a></div>
+<div id="hero-credit"><a href="https://unsplash.com/photos/brown-octopus-on-black-surface-i54owgDjXeY" target="_blank">BG Image of Octopus by Isabel Galvez</a></div>
 </section>
 Some of my art, poetry, passions and ideas.
 Dive deep. 
