@@ -7,6 +7,8 @@ permalink: /aphantasia/aphant-log-02-23-2026
 ---
 Last night I did image streaming and realized that for the past month or so, maybe longer, that I've been experiencing a form of synesthesia - in which I get flashes of color and/or flashes of what a color feels like (so, no visual, but the feeling of "dark teal", etc.)
 
+The realization part was that the emotions tied to colors was not just qualia, but could be considered synesthesia. I've been reading / hearing more about this phenomenon lately (e.g. in *The Einstein Factor*), and so that's likely why this realization finally occurred - along with the fact that these flases of color/emotion have been increasing in frequency and vividness.
+
 I also experienced a "shuttering" effect - going between autogogic representations of lips and a visual flash of an image of lips in a rapid succession.
 
 Image streaming especially when very tired/falling asleep has lead to incredible new experiences in regards to mental imagery. I'm becoming more sensitive to these faint signals. It's super-fun, though sometimes scary. 
