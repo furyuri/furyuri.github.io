@@ -1,4 +1,4 @@
-body {
+html, body {
     overflow-x: clip;
     overflow-x: hidden;
 }
@@ -104,7 +104,7 @@ body {
         position: absolute;
         top: 0;
         bottom: 0;
-        width: 200vmax;
+        width: 100vw;
         background: #00213c;
         z-index: -1;
     }
