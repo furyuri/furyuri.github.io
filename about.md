@@ -18,6 +18,8 @@ redirect_from:
   
     Right now I'm focused on a new journey: diving deep into visual arts, storytelling and poetry.
 
+    However, perhaps the most important passion I have aside from loving and raising my kiddos, is unlocking mental imagery and all the ways that overcoming aphantasia is helping me in this grander journey of personal growth and healing.
+
     </span>
 </p>
 
