@@ -6,6 +6,17 @@ permalink: /aphantasia/
 description: 'My journey and learnings surrounding Aphantasia, sensory thought and mental imagery such as visualization.'
 ---
 
+<aside markdown=1>
+**Close your eyes.**<br>
+Picture a red apple.<br>
+
+Is it glossy? Is it matte?<br>
+Does it have a stem?
+
+Now imagine closing your eyes… and there is nothing.<br>
+Not darkness. Not blur. **Just absence**.
+</aside>
+
 This is a record and repository for all of my learnings surrounding **aphantasia**, and **gaining mental imagery** after roughly forty years of not having it and not being aware of it as a phenomenon.
 
 To start with, here are some videos about Aphantasia, including several I've made talking about the topic and my own progress:
@@ -13,6 +24,7 @@ To start with, here are some videos about Aphantasia, including several I've mad
 
 ## Mental Imagery Log
 Short posts regarding my progress and ideas as I go from aphant to hypophantasia and beyond.
+- [Feb 23, 2026](aphant-log-02-23-2026)
 
 ## Aphantasia Resources
 ### Reddit
