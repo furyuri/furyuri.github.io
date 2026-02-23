@@ -34,7 +34,7 @@ Short posts regarding my progress and ideas as I go from aphant to hypophantasia
 - [Sensory Thought by Apps4Life](https://www.reddit.com/r/CureAphantasia/comments/xa0r7o/analogue_information_vs_sensory_information/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Image Streaming 
-Image streaming is really about developing an awareness of subconscious thought and the regular practice of observing it, and amplifying it's "voice". It's inventor, Win Wenger, teaches and explains it thoroughly in his book, *The Einstein Factor*. In using Image Streaming, you learn to strengthen your mental imagery, even if it's currently very weak or undetectable (i.e. you have aphantasia)
+Image streaming is really about developing an awareness of subconscious thought and the regular practice of observing it, and amplifying it's "voice". It's inventor, Win Wenger, teaches and explains it thoroughly in his book, *The Einstein Factor*. In using Image Streaming, you learn to strengthen your mental imagery, even if it's currently very weak or undetectable (i.e. you have aphantasia).
 - [Win Wenger (Inventor of Image Streaming)](https://winwenger.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - [The Einstein Factor](https://www.goodreads.com/book/show/538653.The_Einstein_Factor){:target="_blank"}{:rel="noopener noreferrer"}
 
