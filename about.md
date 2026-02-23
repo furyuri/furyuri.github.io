@@ -32,8 +32,9 @@ redirect_from:
 
 My goal for this website is multi-faceted and includes:
 - Bringing joy and entertainment through art, poetry, music and other creative endeavors.
+- Offering information and insight into the world of Aphantasia and my personal journey towards unlocking mental imagery.
 - Creating a delightful web experience.
-- Providing a way for people (like you, dear reader) to easily contact me, request my services, and buy cool, geeky products.
+- Providing a way for people (like you, dear reader) to easily contact me, request my services, and buy cool, geeky products (maybe? one dau?).
 
 ## At the end o' the day...
 
