@@ -38,7 +38,7 @@ Image streaming is really about developing an awareness of subconscious thought 
 - [Win Wenger (Inventor of Image Streaming)](https://winwenger.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - [The Einstein Factor](https://www.goodreads.com/book/show/538653.The_Einstein_Factor){:target="_blank"}{:rel="noopener noreferrer"}
 
-### Adam Zeman & Patient MX
+### Adam Zeman & Patient MX (Jim Campbell)
 - [The Science of Imagination by Adam Zeman](https://www.youtube.com/watch?v=lkYwKjkCJgE){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Various Related Articles
