@@ -7,9 +7,13 @@ layout: home
 description: 'A world of imagination, art and storytelling by yours eternally, Uriel (Uri) Frazier.'
 ---
 
-![Boy looking at fish in an aquarium.]({{site.url}}/{{site.images_path}}pexels-rachel-claire-5531413-cropped-small.jpg){: #under-construction-pic}
-
-Still under the early stages of development, but there's stuff to see now! Check out the [blog](\blog). I think there's at least one post there...
+<section id='home-hero-section'>
+<div id="hero-text">
+<h2>As wild, ever-changing <br>& flexible as the <br>Octopus.</h2>
+</div>
+</section>
+Some of my art, poetry, passions and ideas.
+Dive deep. 
 
 <div markdown=1 id='signature-box'>
 With love, <span id='signature'>Uriel</span>

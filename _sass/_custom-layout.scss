@@ -77,6 +77,60 @@
     font-size: 1.2rem;
     margin-bottom: .5rem;
 }
+/* --- Home Page --- */
+    #home-hero-section {
+        background-color: #062136;
+        background-image: url("/images/unsplash_isabel_galvez_octopus.jpg");
+        background-size: cover;
+        height: 60vh;
+        background-repeat: no-repeat;
+        background-position: -50px center;
+        position: relative;
+        margin-bottom: 2rem;
+        padding: 1rem;
+        @media only screen and (min-width: 700px) {
+            background-size: contain;
+            height: 70vh;
+        }
+
+        /* left + right extensions */
+        &::before,
+        &::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100vw;
+            background: #062136;
+            z-index: -1;
+        }
+
+        /* push left */
+        &::before {
+            right: 100%;
+        }
+
+        /* push right */
+        &::after {
+            left: 100%;
+        }
+        #hero-text {
+            position: absolute;
+            color: white;
+            bottom: 10%;
+            text-align: center;
+            width: calc(100% - 1rem);
+            text-shadow: 1px 1px 2px black;
+            @media only screen and (min-width: 700px) {
+                width: calc(50% - 1rem);
+                text-align: left;
+                font-size: 2rem;
+                right: 0;             
+            }
+        }
+
+    }
+
 /* --- Poems --- */
 .poem h1 {
     margin-bottom: 0;

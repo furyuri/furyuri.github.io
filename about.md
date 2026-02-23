@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who in the world is Uri (Uriel) Frazier?
+title: Who in the world is Uri (Uriel) Frazier-Katzen?
 menu_title: About
 permalink: /about/
 description: 'Learn a little about me, Uriel (Uri) Frazier. Artist, Dancer, Dev, Dad, Octopus lover...'
