@@ -19,14 +19,20 @@ Not darkness. Not blur. **Just absence**.
 
 This is a record and repository for all of my learnings surrounding **aphantasia**, and **gaining mental imagery** after roughly forty years of not having it and not being aware of it as a phenomenon.
 
-To start with, here are some videos about Aphantasia, including several I've made talking about the topic and my own progress:
-[Aphantasia Playlist (YouTube)](https://youtube.com/playlist?list=PLzY7jGzc-hHYtYqbKooobL1d_7Mk3Mx3K&si=Wit5c4u0MZf7ARze){:target="_blank"}{:rel="noopener noreferrer"}
+Aphantasia has been shown to result in poor autobiographical memory and **SDAM** (Severely Deficient Autobiographical Memory)
+
+<aside markdown=1>*"We found that people with aphantasia have more difficulty recalling memories. Not only do they report fewer details, but their narratives are less vivid and their confidence in their own memory is diminished. This suggests that our ability to remember our personal biography is closely linked to our imagination,"* - [Dr. Merlin Monzel](https://scholar.google.com/citations?user=dHD5g_wAAAAJ&hl=de)
+</aside>
 
 ## Mental Imagery Log
 Short posts regarding my progress and ideas as I go from aphant to hypophantasia and beyond.
 - [Feb 23, 2026](aphant-log-02-23-2026)
 
 ## Aphantasia Resources
+### YouTube Playlist
+Videos about Aphantasia, including several I've made talking about the topic and my own progress:
+[Aphantasia Playlist (YouTube)](https://youtube.com/playlist?list=PLzY7jGzc-hHYtYqbKooobL1d_7Mk3Mx3K&si=Wit5c4u0MZf7ARze){:target="_blank"}{:rel="noopener noreferrer"}
+
 ### Reddit
 - [CureAphantasia](https://www.reddit.com/r/CureAphantasia/){:target="_blank"}{:rel="noopener noreferrer"}
 - [HypoAphantasia](https://www.reddit.com/r/Hypophantasia/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -43,7 +49,7 @@ Image streaming is really about developing an awareness of subconscious thought 
 
 ### Various Related Articles
 - [Memory linked to creating mental images](https://www.sciencedaily.com/releases/2024/02/240227130125.htm){:target="_blank"}{:rel="noopener noreferrer"}
-- [Long-term memory and lack of mental images](https://www.sciencedaily.com/releases/2024/02/240227130125.htm){:target="_blank"}{:rel="noopener noreferrer"}
+- [Long-term memory and lack of mental images - Dr. Cornelia McCormick](https://www.sciencedaily.com/releases/2024/02/240227130125.htm){:target="_blank"}{:rel="noopener noreferrer"}
 - [Article on Aphantasia by QuantaMagazine](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Life Without a Mind's Eye](https://brainwisemedia.com/life-without-visual-imagination/)
 - [Aphantasia: The rare brain condition that darkens the mind’s eye](https://bigthink.com/neuropsych/aphantasia){:target="_blank"}{:rel="noopener noreferrer"}
