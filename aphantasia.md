@@ -68,3 +68,4 @@ Image streaming is really about developing an awareness of subconscious thought 
 - Synesthesia
 - SDAM (Severely Deficient Autobiographical Memory)
 - HSAM (Highly Superior Autobiographical Memory)
+- Predictive Processing (in neurocognition)
