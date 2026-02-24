@@ -55,6 +55,7 @@ Image streaming is really about developing an awareness of subconscious thought 
 - [Aphantasia: The rare brain condition that darkens the mind’s eye](https://bigthink.com/neuropsych/aphantasia){:target="_blank"}{:rel="noopener noreferrer"}
 - [Discover Magazine Aphantasia Article](https://www.discovermagazine.com/mind/the-brain-look-deep-into-the-minds-eye){:target="_blank"}{:rel="noopener noreferrer"}
 - [Jill Bolte Taylor: My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight){:target="_blank"}{:rel="noopener noreferrer"}
+- [Various articles by Dr. Merlin Monzel](https://www.researchgate.net/profile/Merlin-Monzel)
 
 # Psychedelics
 - [The emergence of mental imagery after self-reported psilocybin mushrooms](https://aphantasia.com/research/10.31234/osf.io/c9fpj){:target="_blank"}{:rel="noopener noreferrer"}
