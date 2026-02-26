@@ -1,6 +1,6 @@
 ---
 layout: aphant-log
-title:  "Aphantasia Log - Josh's Mind's Eye, Hypnogogia, Synesthesia, Autogogia"
+title:  "Aphant Log - Josh's Mind's Eye, Hypnogogia, Synesthesia, Autogogia"
 author: 'Uriel Frazier-Katzen'
 post-id: 'aphant-log-02-26-2026'
 permalink: /aphantasia/aphant-log-02-26-2026
@@ -9,7 +9,7 @@ permalink: /aphantasia/aphant-log-02-26-2026
 - I realized recently that during near-sleep states (likely theta) while practicing autogogia, and image-streaming that the flashes of colors mixed with strong emotion I've experienced (not very often at this point, but probably 1-2 times when I get in a good flow) is likely a form of synesthesia.
 - Today 2/26/2026, I had two hypnogogic flashes while coming out of sleep. After the first flash, I had this realization or belief that I had my right slightly eye open, and that by opening it slightly again I was able to trigger the second flash. I don't remember the subject of the first flash, but the second one was clearly a baseball that was behaving like something in a pinball machine, with other small baseballs bouncing off of them. It has a clear tie to a memory of some sort of game where the balls split and increase...it's not Araknoid...it's some other video game that I still can't recall.
 - I found out a couple nights ago or so, that to see autogogic images, that I actually have to "hunt" for them and focus on them with my eyes as opposed to just looking with a soft gaze into space (with eyes closed or open). Engaging the eyes perhaps involves the visual system in a way that makes imagery appear/possible.
-- It may be the Bacopa Monnieri that I've been taking since
+- 2/24 - Found Dr. Merlin Montels research articles (he co-authored with other scientists). New articles even as recent as 02/2026.
 - 2/23 - "Death" Journey. Scary, horrifying. Everything was made up, nothing real. Synesthesia of everything. Before that, added Aphantasia page to website, including aphant logs.
 - 2/19 - I started listening to "The Einstein Factor" raising and practicing deeper levels of awareness including to the subconscious thought (e.g. autogogic imagery), seems to be a key in encoding, retrieving memory and enhancing mental imagery. The visuals, etc. are there, it's about learning to "build the antenna" that can pick them up, in part. Started image-streaming, incorporating autogogia practice with it. Heard piano music playing briefly during one session. Faint images, colors, flashes of light, movement and voices when going deep, close to sleeping, but awake enough to keep narrating most of the experience.
 - Made a bunch of YT videos during this month (Feb) about Aphantasia, SDAM, etc.
