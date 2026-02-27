@@ -18,7 +18,7 @@ permalink: /aphantasia/aphant-log-02-26-2026
 - 2/6 - Started Bacopa Monnieri (again) to see long term affects on memory. Previously took inconsistently and not long enough
 - 2/5 - huge emotional release (break down) and reckoning with old patterns and deep wounds of worthlessness, self-abandonment and shrinking. Had to reach out to therapist and friends due to being in very strange waters. - Seems like it's having an effect. Whether it's the image streaming, the Bacopa, the juggling, using visual thought during every day conversations and thought...it's improving my recall and cognition.
 - 2/3 - Started light practice of juggling (bilateral coordination)
-- 1/26 - New aphantasia support friend to talk to.
 - 1/28 - Decided to revisit autogogia training.
+- 1/26 - New aphantasia support friend to talk to.
 - 1/16 - Started Telepathy Tapes (non-verbal, subconscious, belief systems, divine help)
 - 1/12 - Started "Belonging" Toko-pa Turner (Main wound healing)

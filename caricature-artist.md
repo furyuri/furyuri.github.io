@@ -12,7 +12,7 @@ description: 'Serving Portland, OR and beyond. Enhance your special occasion wit
 
 <p class='flex-container'>
     <span markdown=1>
-    My name is Uri Frazier and I am a freelance caricature artist living the Pacific Northwest (PNW) - *I mostly work with clients in Portland, Oregon and Vancouver, Washington*.  
+    My name is Uriel (Uri) Frazier-Katzen and I am a freelance caricature artist living the Pacific Northwest (PNW) - *I mostly work with clients in Portland, Oregon and Vancouver, Washington*.  
     <br>
     I offer caricatures for your parties of all types.  
     **Birthday Party** or **Wedding Reception**? Yes!
