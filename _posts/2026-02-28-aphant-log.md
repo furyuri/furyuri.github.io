@@ -15,3 +15,10 @@ This is a few days (4 nights) after the horrific "DEATH Journey."
 I know I'm doing a lot of different things to practice visualization and improve on my hypophantasia recently (I feel moderately comfortable calling it that), but since it's been three weeks of me taking Bacopa Monnieri every day, I feel like the improvement may be due in large part to that.
 
 I'm also noticing a clearer mind, better memory recall for names, etc. - but almost an effect of my mind moving too fast...in a way that is electrifying and slightly overwhelming and stressful. Could be due to still fighting off this respiratory bug/virus.
+
+P.S. 
+
+New vocabulary:
+- hynopompic (vs. hypnogogic)
+- myclonic (jerks, movement)
+- eigengrau
