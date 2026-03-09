@@ -51,7 +51,6 @@ Image streaming is really about developing an awareness of subconscious thought 
 - [The Science of Imagination by Adam Zeman](https://www.youtube.com/watch?v=lkYwKjkCJgE){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Various Related Articles
-- [Memory linked to creating mental images](https://www.sciencedaily.com/releases/2024/02/240227130125.htm){:target="_blank"}{:rel="noopener noreferrer"}
 - [Long-term memory and lack of mental images - Dr. Cornelia McCormick](https://www.sciencedaily.com/releases/2024/02/240227130125.htm){:target="_blank"}{:rel="noopener noreferrer"}
 - [Article on Aphantasia by QuantaMagazine](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Life Without a Mind's Eye](https://brainwisemedia.com/life-without-visual-imagination/)
