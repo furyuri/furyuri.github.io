@@ -26,6 +26,7 @@ Aphantasia has been shown to result in poor autobiographical memory and **SDAM**
 
 ## Mental Imagery Log
 Short posts regarding my progress and ideas as I go from aphant to hypophantasia and beyond.
+- [Mar 25, 2026](aphant-log-03-25-2026)
 - [Mar 05, 2026](aphant-log-03-05-2026)
 - [Feb 28, 2026](aphant-log-02-28-2026)
 - [Feb 26, 2026](aphant-log-02-26-2026)
@@ -57,7 +58,8 @@ Image streaming is really about developing an awareness of subconscious thought 
 - [Aphantasia: The rare brain condition that darkens the mind’s eye](https://bigthink.com/neuropsych/aphantasia){:target="_blank"}{:rel="noopener noreferrer"}
 - [Discover Magazine Aphantasia Article](https://www.discovermagazine.com/mind/the-brain-look-deep-into-the-minds-eye){:target="_blank"}{:rel="noopener noreferrer"}
 - [Jill Bolte Taylor: My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight){:target="_blank"}{:rel="noopener noreferrer"}
-- [Various articles by Dr. Merlin Monzel](https://www.researchgate.net/profile/Merlin-Monzel)
+- [Various articles by Dr. Merlin Monzel](https://www.researchgate.net/profile/Merlin-Monzel){:rel="noopener noreferrer"}
+- [(Bacopa Monnieri) How I Went From Aphantasia to Photographic Memory With Nootropics](https://medium.com/experience-engineering/how-i-went-from-aphantasia-to-photographic-memory-with-nootropics-19b0c7c81310){:target="_blank"}{:rel="noopener noreferrer"}
 
 # Psychedelics
 - [The emergence of mental imagery after self-reported psilocybin mushrooms](https://aphantasia.com/research/10.31234/osf.io/c9fpj){:target="_blank"}{:rel="noopener noreferrer"}
