@@ -60,7 +60,7 @@ Image streaming is really about developing an awareness of subconscious thought 
 - [Jill Bolte Taylor: My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight){:target="_blank"}{:rel="noopener noreferrer"}
 - [Various articles by Dr. Merlin Monzel](https://www.researchgate.net/profile/Merlin-Monzel){:rel="noopener noreferrer"}
 - [(Bacopa Monnieri) How I Went From Aphantasia to Photographic Memory With Nootropics](https://medium.com/experience-engineering/how-i-went-from-aphantasia-to-photographic-memory-with-nootropics-19b0c7c81310){:target="_blank"}{:rel="noopener noreferrer"}
-- [Interview with Gazzaniga and split brain patient 'Joe](https://www.youtube.com/watch?v=RFgtGIL7vEY){:target="_blank"}{:rel="noopener noreferrer"}
+- [Interview with Gazzaniga and split brain patient 'Joe'](https://www.youtube.com/watch?v=RFgtGIL7vEY){:target="_blank"}{:rel="noopener noreferrer"}
 
 # Psychedelics
 - [The emergence of mental imagery after self-reported psilocybin mushrooms](https://aphantasia.com/research/10.31234/osf.io/c9fpj){:target="_blank"}{:rel="noopener noreferrer"}
