@@ -26,6 +26,7 @@ Aphantasia has been shown to result in poor autobiographical memory and **SDAM**
 
 ## Mental Imagery Log
 Short posts regarding my progress and ideas as I go from aphant to hypophantasia and beyond.
+- [Apr 08, 2026](aphant-log-04-08-2026)
 - [Mar 25, 2026](aphant-log-03-25-2026)
 - [Mar 05, 2026](aphant-log-03-05-2026)
 - [Feb 28, 2026](aphant-log-02-28-2026)
