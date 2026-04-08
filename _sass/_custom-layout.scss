@@ -242,11 +242,14 @@ html {
     h3 {
         line-height: 1.2em;
     }
-
+    .post-preview-text {
+        @media only screen and (max-width: 500px) {
+            word-break: break-word;
+            min-width: 50%;
+        }
+    }
     @media only screen and (max-width: 600px) {
         background-color: #eaeaea;
         border-radius: 5px;
     }
 }
-
-
