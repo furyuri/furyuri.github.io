@@ -7,11 +7,12 @@ description: 'My journey and learnings surrounding Aphantasia, sensory thought a
 ---
 
 <aside markdown=1>
-**Close your eyes.**<br>
-Picture a red apple.<br>
+Picture a red apple in your mind.<br>
 
 Is it glossy? Is it matte?<br>
 Does it have a stem?
+
+**Close your eyes and picture it again.**<br>
 
 Now imagine closing your eyes… and there is nothing.<br>
 Not darkness. Not blur. **Just absence**.
