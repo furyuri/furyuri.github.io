@@ -38,6 +38,9 @@ Short posts regarding my progress and ideas as I go from aphant to hypophantasia
 Videos about Aphantasia, including several I've made talking about the topic and my own progress:
 [Aphantasia Playlist (YouTube)](https://youtube.com/playlist?list=PLzY7jGzc-hHYtYqbKooobL1d_7Mk3Mx3K&si=Wit5c4u0MZf7ARze){:target="_blank"}{:rel="noopener noreferrer"}
 
+### Awesome Podcast Episode for Kids
+- [Tinkercast | Adventures Through Aphantasia: When The Mind is Blind](https://tinkercast.com/podcasts/wow-in-the-world/adventures-through-aphantasia-when-the-mind-is-blind/){:target="_blank"}{:rel="noopener noreferrer"}
+
 ### Reddit
 - [CureAphantasia](https://www.reddit.com/r/CureAphantasia/){:target="_blank"}{:rel="noopener noreferrer"}
 - [HypoAphantasia](https://www.reddit.com/r/Hypophantasia/){:target="_blank"}{:rel="noopener noreferrer"}
