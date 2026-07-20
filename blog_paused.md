@@ -2,7 +2,7 @@
 layout: page
 title: The Personal Blog of Uri Frazier
 menu_title: Blog
-permalink: /blog/
+permalink: /blog-paused/
 description: 'Enter the wonderful world of Uri Frazier as he writes about life, love, and musings of all sorts.'
 ---
 
