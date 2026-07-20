@@ -27,8 +27,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aquarium8.art" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  furyuri
 header_pages:
-  - aphantasia.md
-  - blog.md
   - poetry.md
   - caricature-artist.md
   - about.md
