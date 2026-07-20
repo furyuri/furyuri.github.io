@@ -19,7 +19,3 @@ Dive deep.
 <div markdown=1 id='signature-box'>
 With love, <span id='signature'>Uriel</span>
 </div>
-
-<br><br><br>
-## Some Friends Worth Checking Out
-- [Secret Key PDX](https://secretkeypdx.com/)
