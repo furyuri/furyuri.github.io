@@ -2,7 +2,7 @@
 layout: page
 title: The Aphantasia & Mental Imagery Adventure
 menu_title: Aphantasia
-permalink: /aphantasia-paused/
+permalink: /aphantasia/
 description: 'My journey and learnings surrounding Aphantasia, sensory thought and mental imagery such as visualization.'
 ---
 
