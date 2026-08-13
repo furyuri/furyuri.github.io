@@ -60,6 +60,12 @@ Image streaming is really about developing an awareness of subconscious thought 
 ### Adam Zeman & Patient MX (Jim Campbell)
 - [The Science of Imagination by Adam Zeman](https://www.youtube.com/watch?v=lkYwKjkCJgE){:target="_blank"}{:rel="noopener noreferrer"}
 
+### Books
+- **Experiences in Visual Thinking** 
+    - (Robert H. McKim - 1972)
+- **Visual Learning, Thinking and Communication** 
+    - (Academic Press Series in Cognition and Perception - Randhawa, Coffman - 1978)
+
 ### Various Related Articles
 - [Long-term memory and lack of mental images - Dr. Cornelia McCormick](https://www.sciencedaily.com/releases/2024/02/240227130125.htm){:target="_blank"}{:rel="noopener noreferrer"}
 - [Article on Aphantasia by QuantaMagazine](https://www.quantamagazine.org/what-happens-in-a-mind-that-cant-see-mental-images-20240801/){:target="_blank"}{:rel="noopener noreferrer"}
