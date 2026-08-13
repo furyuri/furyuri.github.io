@@ -37,8 +37,8 @@ So my current plan is to test (for at least two months, perhaps for a full year)
     - previously drinking 2-4 cups of espresso/cappuccino per week
     - previously 2 cups a day of tea (shou puerh)
     - dark chocolate was a more rare treat, 1-4x a month or so
-- **5-HTA** (200mg / day)
-    - to boost Serotonin
+- **5-HTP** (200mg / day)
+    - to boost Serotonin (as a precursor)
 
 Tackling my ADHD symptoms will help me with consistency in achieving my goals, such as being diligent and consistent with imagery training, but also I'd like to see if there's any chance it may improve my mental imagery. Is it possible that low COMT is resulting in too much brain activity which is blocking or interfering with visuals?
 
