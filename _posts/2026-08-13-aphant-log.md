@@ -15,7 +15,7 @@ Mental imagery and discoveries about brain lateralization seems to have been a p
 
 Besides finding these treasures, Since my initial appointment on 7-21 with a psychiatrist (see 7-7-26 post), I've tried both Vyvanse (2-day trial) and Strattera (1-day trial). The immediate negative response I had to these two drugs, included a worsening of feeling "wired", distracted and even worsening of memory. There were some isolated, momentary benefits (even feelings of pleasure), but otherwise symptoms included chest palpitations, soreness and slight metallic taste in the throat, and gassiness (like acid reflux). The main issue was feeling like my mind constantly wanted to run at 100 mph, and that my body was doing the same - and I felt sick for a large part of the day - perhaps that's also partially because these drugs seemed to affect my sleep (only getting 5 hours instead of 7 or 8)
 
-Somehow, I remembered about my low COMT genetic profile, discovered last year (2025) via genetic testing (23andMe) and with the help of geneticlifehacks.com. 
+Somehow, I remembered about my low COMT genetic profile, discovered last year (2025) via genetic testing (23andMe) and with the help of [geneticlifehacks.com](https://geneticlifehacks.com). 
 
 My current theory, is that instead of having too "little" dopamine/dopamine activity, that I actually have too much (due to low COMT). Having too much can result in similar/same symptoms as too little, including impulsivity. Other factors included realizing recently how one cup of coffee (cappuccino) can leave me feeling incredibly wired (just paying more attention to my body and mind state). 
 
@@ -30,10 +30,9 @@ So my current plan is to test (for at least two months, perhaps for a full year)
 - **Uridine** (250mg /day) - *This is the other big one.*
     - May modulate dopamine signaling over time rather than directly increasing dopamine; some animal evidence suggests effects on dopamine receptor function.
     - Chronic uridine exposure has produced changes in dopamine receptor density/signaling in animal studies—particularly D2-family receptors
-    - may modulate dopamine signaling/receptor function
 - **DHA** (440mg /day)
     - Works with uridine
-- Avoiding **caffeine**•**: coffee/tea/chocolate 
+- Avoiding **caffeine**: coffee/tea/chocolate 
     - previously drinking 2-4 cups of espresso/cappuccino per week
     - previously 2 cups a day of tea (shou puerh)
     - dark chocolate was a more rare treat, 1-4x a month or so
@@ -48,4 +47,14 @@ Tackling my ADHD symptoms will help me with consistency in achieving my goals, s
 "Interestingly, lower resting activity and excitability result in stronger imagery, and reducing cortical activity in the visual cortex via transcranial direct current stimulation (tDCS) increases visual imagery strength (Keogh et al., 2020)."
 
 [https://elifesciences.org/articles/94916#s3](https://elifesciences.org/articles/94916#s3)
+</aside>
+
+<aside markdown=1>
+![Simple graph made with ASCII characters, of u-shaped curve related to excess or insufficient dopamine]({{site.url}}/{{site.images_path}}adhd_u-curve.gif){:style="max-width:500px; border:2px solid lightgray; border-radius:5px;"}
+
+Excess dopamine can make tasks feel impossible to start. While it sounds contradictory, chronically high spikes or overloaded dopamine pathways collapse your day-to-day motivation through a process called receptor down-regulation and the creation of a "dopamine gap". The relationship between dopamine and motivation follows a U-shaped curve: too little or too much both lead to motivational paralysis.
+
+Dopamine Gap (Relative Stimulation): Task initiation relies heavily on relative contrast. Your brain constantly compares what you are doing right now to what you are about to do.
+
+Excess dopamine doesn't mean zero motivation across the board. Instead, it often causes your focus to get locked onto the wrong thing. As a result, you might find yourself intensely driven to research a random rabbit hole for four hours, but completely unable to look at your actual work responsibilities. The excess chemical signal overrides your prefrontal cortex's ability to prioritize what is actually important over what is immediately stimulating.
 </aside>
