@@ -3,16 +3,16 @@ layout: page
 title: どうぞよろしく
 menu_title: About
 permalink: /about/
-description: 'Learn a little about me, Uriel (Uri) Frazier. Artist, Dancer, Dev, Dad, Octopus lover...'
+description: 'Learn a little about me, Uriel Frazier-Kisanuki. Artist, Dancer, Dev, Dad, Octopus lover...'
 redirect_from:
   - /about.html
 ---
 <p class='flex-container'>
     <span markdown=1>
-        ![That's me (Uri) looking downwards, wearing shades, donning a My Hero Academia t-shirt.]({{site.url}}/{{site.images_path}}uri_bio_pic.jpg 'Uriel Frazier - Dad, Artist, Dancer, Dev.'){: .img-thumb-med}
+        ![That's me, Uriel, looking downwards, wearing shades, donning a My Hero Academia t-shirt.]({{site.url}}/{{site.images_path}}uri_bio_pic.jpg 'Uriel Frazier - Dad, Artist, Dancer, Dev.'){: .img-thumb-med}
     </span>    
     <span markdown=1>
-    Hello, hello! My name is Uri. This is my site. This is an **Octopus** that likes to draw. 🐙  
+    Hello, hello! My name is Uriel. This is my site. This is an **Octopus** that likes to draw. 🐙  
   
     I enjoy ecstatic dance, anime, sci-fi, fantasy, manga, comics, running, learning languages, and playing with my kiddos.  
   
